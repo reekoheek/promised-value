@@ -1,0 +1,11 @@
+{
+  "name": "promised-value",
+  "version": "1.0.0",
+  "description": "Promise a promised value which set asynchronously",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Ganesha <reekoheek@gmail.com>",
+  "license": "MIT"
+}
